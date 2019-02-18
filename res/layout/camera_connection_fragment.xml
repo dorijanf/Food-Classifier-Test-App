@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.wuggs.imgclassifier.AutoFitTextureView
+        android:id="@+id/texture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+    <com.wuggs.imgclassifier.RecognitionScoreView
+        android:id="@+id/results"
+        android:layout_height="50dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/round"
+        android:layout_marginBottom="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="65dp"
+        android:layout_marginRight="65dp"
+        android:layout_alignParentTop="false" />
+
+    <com.wuggs.imgclassifier.OverlayView
+        android:id="@+id/debug_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="414dp"
+        android:layout_alignParentBottom="true" />
+
+    <TextView
+        android:id="@+id/nutrition"
+        android:layout_width="match_parent"
+        android:layout_height="238dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:textSize="20dp"
+        android:textColor="#FFF"
+        android:text="@string/Placeholder"
+        android:background="@drawable/rectangle" />
+
+</RelativeLayout>

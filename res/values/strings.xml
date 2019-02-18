@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Food Classifier</string>
+    <string name="take_photo">Take photo</string>
+    <string name="upload_photo">Upload photo</string>
+    <string name="about">About</string>
+    <string name="about_title">Aplikaciju izradili:</string>
+    <string name="about_names">   Dorijan Fabijanić\n   Milan Trbojević</string>
+    <string name="about_title2">O aplikaciji:</string>
+    <string name="about_description">Food classifier je toy aplikacija napravljena u sklopu kolegija Inteligentni sustavi i Objektni programski jezici koja implementira Microsoftov Custom Vision Service i biblioteku Tensorflow kako bi klasificirala slike hrane.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="Placeholder">Find some food\nAmount per 100 grams\nTotal Fat \nCholesterol \nSodium \nPotassium \nTotal Carbohydrate \nProtein \nVitamins: \nTOTAL CALORIES: </string>
+    <string name="Apple">Apple\nAmount per 100 grams\nTotal Fat 0.2g\nCholesterol 0mg\nSodium 1mg\nPotassium 107mg\nTotal Carbohydrate 14g\nProtein 0.3g\nVitamins: A 1% | C 7%\nTOTAL CALORIES: 52</string>
+    <string name="Bread">Bread\nAmount per 100 grams\nTotal Fat 1g\nCholesterol 0mg\nSodium 120mg\nPotassium 12g\nTotal Carbohydrate 14g\nProtein 3g\nVitamins: Calcium 4% | Iron 4%\nTOTAL CALORIES: 265</string>
+    <string name="Cake">Cake\nAmount per 100 grams\nTotal Fat 0.3g\nCholesterol 0mg\nSodium 511mg\nPotassium 135mg\nTotal Carbohydrate 59g\nProtein 6g\nVitamins: Calcium 8% | Magnesium 2%\nTOTAL CALORIES: 257</string>
+    <string name="Cupcake">Cupcake\nAmount per 100 grams\nTotal Fat 7g\nCholesterol 260mg\nSodium 306mg\nPotassium 279mg\nTotal Carbohydrate 8g\nProtein 18g\nVitamins: Calcium 3% | Cobalamin 20%\nTOTAL CALORIES: 175</string>
+    <string name="Calamari">Calamari\nAmount per 100 grams\nTotal Fat 7g\nCholesterol 260mg\nSodium 306mg\nPotassium 279mg\nTotal Carbohydrate 8g\nProtein 18g\nVitamins: Calcium 3% | Cobalamin 20%\nTOTAL CALORIES: 175</string>
+    <string name="Coffee">Coffee\nAmount per 100 grams\nTotal Fat 0g\nCholesterol 0mg\nSodium 2mg\nPotassium 49mg\nTotal Carbohydrate 0g\nProtein 0.1g\nVitamins: 0% | 0%\nTOTAL CALORIES: 0</string>
+    <string name="Cookies">Cookies\nAmount per 100 grams\nTotal Fat 24g\nCholesterol 20mg\nSodium 524mg\nPotassium 100mg\nTotal Carbohydrate 65mg\nProtein 6g\nVitamins: Calcium 1% | Iron 15%\nTOTAL CALORIES:502</string>
+    <string name="Fish">Fish\nAmount per 100 grams\nTotal Fat 12.5g\nCholesterol 109mg\nSodium 86mg\nPotassium 967.12mg\nTotal Carbohydrate 0g\nProtein 39.2g\nVitamins: A 1% | Iron 9%\nTOTAL CALORIES:280</string>
+    <string name="Hamburger">Hamburger\nAmount per 100 grams\nTotal Fat 14g\nCholesterol 47mg\nSodium 414mg\nPotassium 226mg\nTotal Carbohydrate 24g\nProtein 17g\nVitamins: Calcium 10% | Cobalamin 23%\nTOTAL CALORIES:295</string>
+    <string name="Pancake">Pancake\nAmount per 100 grams\nTotal Fat 10g\nCholesterol 59mg\nSodium 439mg\nPotassium 132mg\nTotal Carbohydrate 28g\nProtein 6g\nVitamins: Iron: 9% | Calcium 21%\nTOTAL CALORIES:227</string>
+    <string name="Pasta">Pasta\nAmount per 100 grams\nTotal Fat 1.1g\nCholesterol 33mg\nSodium 6mg\nPotassium 24mg\nTotal Carbohydrate 25g\nProtein 5g\nVitamins: Iron 6% | Magnesium 4%\nTOTAL CALORIES:131</string>
+    <string name="Pizza">Pizza\nAmount per 100 grams\nTotal Fat 10g\nCholesterol 17mg\nSodium 598mg\nPotassium 172mg\nTotal Carbohydrate 33g\nProtein 11g\nVitamins: Calcium 18% | Iron 13%\nTOTAL CALORIES: 266</string>
+    <string name="Popcorn">Popcorn\nAmount per 100 grams\nTotal Fat 4.3g\nCholesterol 7mg\nSodium 8mg\nPotassium 274mg\nTotal Carbohydrate 74g\nProtein 11g\nVitamins: B-6 15% | Magnesium 30%\nTOTAL CALORIES:375</string>
+    <string name="Salad">Salad\nAmount per 100 grams\nTotal Fat 0.8g\nCholesterol 2mg\nSodium 0.5mg\nPotassium 30mg\nTotal Carbohydrate 2g\nProtein 04g\nVitamins: D 18% | C 30%\nTOTAL CALORIES:90</string>
+    <string name="Steak">Steak\nAmount per 100 grams\nTotal Fat 19g\nCholesterol 78mg\nSodium 58mg\nPotassium 279mg\nTotal Carbohydrate 0g\nProtein 25g\nVitamins: B-6 25% | Cobalamin 36%\nTOTAL CALORIES:271</string>
+    <string name="Banana">Banana\nAmount per 100 grams\nTotal Fat 0.3g\nCholesterol 0mg\nSodium 1mg\nPotassium 358mg\nTotal Carbohydrate 23g\nProtein 1.1g\nVitamins: B-6 20% | C 6%\nTOTAL CALORIES:89</string>
+    <string name="Avocado">Avocado\nAmount per 100 grams\nTotal Fat 15g\nCholesterol 0mg\nSodium 7mg\nPotassium 485mg\nTotal Carbohydrate 9g\nProtein 2g\nVitamins: A 2% | C 16%\nTOTAL CALORIES:160</string>
+</resources>
